@@ -36,26 +36,7 @@ PROJECT URL : https://mynxtecom007.ccbp.tech/
 </details>
 
 
-### Quick Tips
 
-<details>
-<summary>Click to view</summary>
-<br>
-
-- The `line-height` CSS property sets the height of a line box. It's commonly used to set the distance between lines of text
-
-  ```
-  line-height: 1.5;
-  ```
-
-    <br/>
-    <img src="https://assets.ccbp.in/frontend/react-js/line-height-img.png" alt="line height" style="width:90%; max-width: 600px;"/>
-
-- The array method `find()` returns the first item's value that satisfies the provided testing function. If no item is found, it returns `undefined`
-
-  **Syntax**: `arr.find(Testing Function)`
-
-</details>
 
 ### Important Note
 
